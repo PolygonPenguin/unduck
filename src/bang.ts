@@ -15989,7 +15989,7 @@ export const bangs = [
     s: "ChatGPT",
     sc: "AI",
     t: "c",
-    u: "https://chapgpt.com/?q={{{s}}}",
+    u: "https://chatgpt.com/?q={{{s}}}",
   },
   {
     c: "AI",
@@ -15998,7 +15998,7 @@ export const bangs = [
     s: "ChatGPT",
     sc: "AI",
     t: "cs",
-    u: "https://chapgpt.com/search?q={{{s}}}",
+    u: "https://chatgpt.com/search?q={{{s}}}",
   },
   {
     c: "AI",
@@ -16007,7 +16007,7 @@ export const bangs = [
     s: "ChatGPT",
     sc: "AI",
     t: "cr",
-    u: "https://chapgpt.com/?model=o3-mini&q={{{s}}}",
+    u: "https://chatgpt.com/?model=o3-mini&q={{{s}}}",
   },
   {
     c: "Shopping",
